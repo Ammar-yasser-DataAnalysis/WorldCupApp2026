@@ -1,0 +1,49 @@
+﻿team_id,fifa_code,team_name,group_name,confederation,continent,flag_url
+1,MEX,Mexico,A,CONCACAF,North America,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+2,RSA,South Africa,A,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
+3,KOR,South Korea,A,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+4,CZE,Czech Republic,A,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/CZE
+5,CAN,Canada,B,CONCACAF,North America,https://api.fifa.com/api/v3/picture/flags-sq-4/CAN
+6,BIH,Bosnia & Herzegovina,B,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/BIH
+7,QAT,Qatar,B,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/QAT
+8,SUI,Switzerland,B,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+9,BRA,Brazil,C,CONMEBOL,South America,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+10,MAR,Morocco,C,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+11,HAI,Haiti,C,CONCACAF,North America,https://api.fifa.com/api/v3/picture/flags-sq-4/HAI
+12,SCO,Scotland,C,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+13,USA,USA,D,CONCACAF,North America,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+14,PAR,Paraguay,D,CONMEBOL,South America,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+15,AUS,Australia,D,AFC,Oceania,https://api.fifa.com/api/v3/picture/flags-sq-4/AUS
+16,TUR,Turkey,D,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/TUR
+17,GER,Germany,E,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+18,CUW,Curaçao,E,CONCACAF,North America,https://api.fifa.com/api/v3/picture/flags-sq-4/CUW
+19,CIV,Ivory Coast,E,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/CIV
+20,ECU,Ecuador,E,CONMEBOL,South America,https://api.fifa.com/api/v3/picture/flags-sq-4/ECU
+21,NED,Netherlands,F,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+22,JPN,Japan,F,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/JPN
+23,SWE,Sweden,F,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+24,TUN,Tunisia,F,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/TUN
+25,BEL,Belgium,G,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+26,EGY,Egypt,G,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/EGY
+27,IRN,Iran,G,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/IRN
+28,NZL,New Zealand,G,OFC,Oceania,https://api.fifa.com/api/v3/picture/flags-sq-4/NZL
+29,ESP,Spain,H,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+30,CPV,Cape Verde,H,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/CPV
+31,KSA,Saudi Arabia,H,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+32,URU,Uruguay,H,CONMEBOL,South America,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+33,FRA,France,I,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+34,SEN,Senegal,I,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/SEN
+35,IRQ,Iraq,I,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ
+36,NOR,Norway,I,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+37,ARG,Argentina,J,CONMEBOL,South America,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+38,ALG,Algeria,J,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/ALG
+39,AUT,Austria,J,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+40,JOR,Jordan,J,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/JOR
+41,POR,Portugal,K,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/POR
+42,COD,DR Congo,K,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/COD
+43,UZB,Uzbekistan,K,AFC,Asia,https://api.fifa.com/api/v3/picture/flags-sq-4/UZB
+44,COL,Colombia,K,CONMEBOL,South America,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+45,ENG,England,L,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+46,CRO,Croatia,L,UEFA,Europe,https://api.fifa.com/api/v3/picture/flags-sq-4/CRO
+47,GHA,Ghana,L,CAF,Africa,https://api.fifa.com/api/v3/picture/flags-sq-4/GHA
+48,PAN,Panama,L,CONCACAF,North America,https://api.fifa.com/api/v3/picture/flags-sq-4/PAN
