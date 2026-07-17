@@ -1,0 +1,49 @@
+rank,team_id,team,clean_sheet,goals_conceded,goalkeeper_saves,goalkeeper_actions_inside_the_penalty_area,goalkeeper_actions_outside_the_penalty_area,image_code,image_url
+1,29,Spain,6,1,14,108,84,ESP,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+2,33,France,4,4,11,80,64,FRA,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+2,44,Colombia,4,1,7,57,54,COL,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+2,1,Mexico,4,3,8,60,49,MEX,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+5,37,Argentina,2,7,9,87,73,ARG,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+5,10,Morocco,2,6,19,112,91,MAR,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+5,45,England,2,8,19,133,110,ENG,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+5,9,Brazil,2,4,15,67,59,BRA,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+5,19,Ivory Coast,2,4,11,84,68,CIV,https://api.fifa.com/api/v3/picture/flags-sq-4/CIV
+5,14,Paraguay,2,6,28,141,124,PAR,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+5,8,Switzerland,2,6,20,100,88,SUI,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+5,13,USA,2,8,10,79,65,USA,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+5,5,Canada,2,6,7,49,40,CAN,https://api.fifa.com/api/v3/picture/flags-sq-4/CAN
+5,30,Cape Verde,2,5,18,136,102,CPV,https://api.fifa.com/api/v3/picture/flags-sq-4/CPV
+5,47,Ghana,2,3,16,86,77,GHA,https://api.fifa.com/api/v3/picture/flags-sq-4/GHA
+5,15,Australia,2,3,14,91,76,AUS,https://api.fifa.com/api/v3/picture/flags-sq-4/AUS
+5,41,Portugal,2,3,20,114,93,POR,https://api.fifa.com/api/v3/picture/flags-sq-4/POR
+18,20,Ecuador,1,4,12,68,63,ECU,https://api.fifa.com/api/v3/picture/flags-sq-4/ECU
+18,18,Curaçao,1,9,21,81,72,CUW,https://api.fifa.com/api/v3/picture/flags-sq-4/CUW
+18,12,Scotland,1,4,9,75,64,SCO,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+18,22,Japan,1,5,17,78,64,JPN,https://api.fifa.com/api/v3/picture/flags-sq-4/JPN
+18,25,Belgium,1,7,19,117,95,BEL,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+18,46,Croatia,1,7,12,80,68,CRO,https://api.fifa.com/api/v3/picture/flags-sq-4/CRO
+18,2,South Africa,1,4,14,72,59,RSA,https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
+18,34,Senegal,1,9,13,87,70,SEN,https://api.fifa.com/api/v3/picture/flags-sq-4/SEN
+18,31,Saudi Arabia,1,5,17,86,78,KSA,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+18,27,Iran,1,3,15,75,65,IRN,https://api.fifa.com/api/v3/picture/flags-sq-4/IRN
+28,11,Haiti,0,8,13,56,48,HAI,https://api.fifa.com/api/v3/picture/flags-sq-4/HAI
+28,16,Turkey,0,5,8,55,46,TUR,https://api.fifa.com/api/v3/picture/flags-sq-4/TUR
+28,43,Uzbekistan,0,11,6,82,65,UZB,https://api.fifa.com/api/v3/picture/flags-sq-4/UZB
+28,48,Panama,0,4,9,48,42,PAN,https://api.fifa.com/api/v3/picture/flags-sq-4/PAN
+28,3,South Korea,0,3,11,42,34,KOR,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+28,17,Germany,0,5,7,61,45,GER,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+28,21,Netherlands,0,5,17,57,54,NED,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+28,39,Austria,0,9,15,85,74,AUT,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+28,35,Iraq,0,12,10,94,81,IRQ,https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ
+28,38,Algeria,0,9,9,48,45,ALG,https://api.fifa.com/api/v3/picture/flags-sq-4/ALG
+28,28,New Zealand,0,10,11,97,88,NZL,https://api.fifa.com/api/v3/picture/flags-sq-4/NZL
+28,32,Uruguay,0,4,4,48,39,URU,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+28,5,Canada,0,6,11,60,52,CZE,https://api.fifa.com/api/v3/picture/flags-sq-4/CZE
+28,36,Norway,0,11,22,132,115,NOR,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+28,7,Qatar,0,10,16,124,103,QAT,https://api.fifa.com/api/v3/picture/flags-sq-4/QAT
+28,26,Egypt,0,7,14,119,105,EGY,https://api.fifa.com/api/v3/picture/flags-sq-4/EGY
+28,24,Tunisia,0,12,7,77,64,TUN,https://api.fifa.com/api/v3/picture/flags-sq-4/TUN
+28,42,DR Congo,0,5,15,83,70,COD,https://api.fifa.com/api/v3/picture/flags-sq-4/COD
+28,6,Bosnia & Herzegovina,0,8,8,92,70,BIH,https://api.fifa.com/api/v3/picture/flags-sq-4/BIH
+28,40,Jordan,0,8,8,70,56,JOR,https://api.fifa.com/api/v3/picture/flags-sq-4/JOR
+28,23,Sweden,0,10,16,76,66,SWE,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE

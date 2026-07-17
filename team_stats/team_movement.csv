@@ -1,0 +1,49 @@
+rank,team_id,team,offers_to_receive,offers_in_behind,offers_in_between,offers_in_front,offers_inside_team_shape,offers_outside_team_shape,receptions_in_behind,receptions_between_midfield_and_defensive_line,receptions_under_pressure,image_code,image_url
+1,29,Spain,3431,955,1280,1196,2023,1408,106,1019,1527,ESP,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+2,37,Argentina,2971,769,1042,1160,1596,1375,73,798,1465,ARG,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+3,45,England,2866,714,959,1193,1604,1262,112,631,1200,ENG,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+4,10,Morocco,2397,679,865,853,1358,1039,61,589,1280,MAR,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+5,33,France,2349,672,773,904,1302,1047,98,780,1279,FRA,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+6,25,Belgium,2261,739,806,716,1245,1016,67,676,1092,BEL,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+7,44,Colombia,2159,618,848,693,1018,1141,52,511,906,COL,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+8,36,Norway,2140,455,946,739,1120,1020,44,674,1123,NOR,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+9,8,Switzerland,2111,590,829,692,1233,878,76,627,1120,SUI,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+10,1,Mexico,2034,541,844,649,1076,958,40,505,834,MEX,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+11,26,Egypt,1963,437,745,781,929,1034,51,451,869,EGY,https://api.fifa.com/api/v3/picture/flags-sq-4/EGY
+12,9,Brazil,1952,501,746,705,1112,840,55,462,828,BRA,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+13,13,USA,1913,550,738,625,1040,873,78,525,993,USA,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+14,41,Portugal,1881,553,759,569,1021,860,63,579,988,POR,https://api.fifa.com/api/v3/picture/flags-sq-4/POR
+15,38,Algeria,1621,477,637,507,905,716,38,379,888,ALG,https://api.fifa.com/api/v3/picture/flags-sq-4/ALG
+16,17,Germany,1591,440,631,520,849,742,45,550,942,GER,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+17,5,Canada,1589,533,576,480,790,799,72,540,929,CAN,https://api.fifa.com/api/v3/picture/flags-sq-4/CAN
+18,34,Senegal,1486,462,526,498,866,620,54,460,988,SEN,https://api.fifa.com/api/v3/picture/flags-sq-4/SEN
+19,22,Japan,1479,392,576,511,872,607,33,324,574,JPN,https://api.fifa.com/api/v3/picture/flags-sq-4/JPN
+20,20,Ecuador,1308,320,514,474,699,609,39,422,713,ECU,https://api.fifa.com/api/v3/picture/flags-sq-4/ECU
+21,16,Turkey,1275,409,428,438,681,594,41,378,709,TUR,https://api.fifa.com/api/v3/picture/flags-sq-4/TUR
+22,30,Cape Verde,1243,323,559,361,624,619,19,291,663,CPV,https://api.fifa.com/api/v3/picture/flags-sq-4/CPV
+23,46,Croatia,1238,402,442,394,682,556,33,323,645,CRO,https://api.fifa.com/api/v3/picture/flags-sq-4/CRO
+24,42,DR Congo,1237,342,542,353,730,507,22,323,636,COD,https://api.fifa.com/api/v3/picture/flags-sq-4/COD
+25,39,Austria,1234,323,486,425,686,548,48,382,789,AUT,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+26,2,South Africa,1212,359,458,395,669,543,29,283,634,RSA,https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
+27,3,South Korea,1201,267,427,507,657,544,40,274,678,KOR,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+28,21,Netherlands,1195,409,376,410,713,482,47,380,642,NED,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+29,32,Uruguay,1182,436,399,347,599,583,45,311,586,URU,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+30,19,Ivory Coast,1112,326,480,306,589,523,46,424,861,CIV,https://api.fifa.com/api/v3/picture/flags-sq-4/CIV
+31,23,Sweden,1065,285,427,353,611,454,35,338,620,SWE,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+32,28,New Zealand,1062,263,471,328,559,503,14,267,563,NZL,https://api.fifa.com/api/v3/picture/flags-sq-4/NZL
+33,12,Scotland,1040,231,400,409,558,482,15,230,430,SCO,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+34,15,Australia,1039,245,465,329,546,493,39,360,839,AUS,https://api.fifa.com/api/v3/picture/flags-sq-4/AUS
+35,24,Tunisia,1000,287,448,265,547,453,18,196,405,TUN,https://api.fifa.com/api/v3/picture/flags-sq-4/TUN
+36,6,Bosnia & Herzegovina,986,286,356,344,497,489,22,257,676,BIH,https://api.fifa.com/api/v3/picture/flags-sq-4/BIH
+37,35,Iraq,955,300,391,264,548,407,22,172,430,IRQ,https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ
+38,48,Panama,889,239,366,284,418,471,28,248,532,PAN,https://api.fifa.com/api/v3/picture/flags-sq-4/PAN
+39,11,Haiti,834,252,350,232,429,405,13,212,407,HAI,https://api.fifa.com/api/v3/picture/flags-sq-4/HAI
+40,43,Uzbekistan,801,197,382,222,456,345,16,246,458,UZB,https://api.fifa.com/api/v3/picture/flags-sq-4/UZB
+41,47,Ghana,772,277,242,253,397,375,26,235,494,GHA,https://api.fifa.com/api/v3/picture/flags-sq-4/GHA
+42,27,Iran,761,227,264,270,356,405,28,229,446,IRN,https://api.fifa.com/api/v3/picture/flags-sq-4/IRN
+43,40,Jordan,741,210,323,208,351,390,27,186,465,JOR,https://api.fifa.com/api/v3/picture/flags-sq-4/JOR
+44,5,Canada,740,232,305,203,371,369,19,245,439,CZE,https://api.fifa.com/api/v3/picture/flags-sq-4/CZE
+45,14,Paraguay,734,187,296,251,371,363,20,258,646,PAR,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+46,31,Saudi Arabia,707,207,276,224,386,321,24,244,523,KSA,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+47,7,Qatar,643,169,285,189,347,296,22,146,361,QAT,https://api.fifa.com/api/v3/picture/flags-sq-4/QAT
+48,18,Curaçao,621,189,289,143,346,275,17,228,524,CUW,https://api.fifa.com/api/v3/picture/flags-sq-4/CUW

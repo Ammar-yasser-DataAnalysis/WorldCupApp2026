@@ -1,0 +1,49 @@
+rank,team_id,team,fouls_against,fouls_for,yellow_cards,red_cards,indirect_red_cards,offsides,image_code,image_url
+1,37,Argentina,88,79,9,0,0,21,ARG,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+2,8,Switzerland,87,89,8,1,1,13,SUI,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+3,29,Spain,80,66,6,0,0,17,ESP,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+4,25,Belgium,78,68,6,1,0,8,BEL,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+5,10,Morocco,74,88,7,0,0,9,MAR,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+6,45,England,73,102,8,1,0,12,ENG,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+7,5,Canada,72,71,11,0,0,7,CAN,https://api.fifa.com/api/v3/picture/flags-sq-4/CAN
+8,33,France,70,66,6,0,0,11,FRA,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+8,44,Colombia,70,64,8,0,0,19,COL,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+10,14,Paraguay,66,61,9,1,0,5,PAR,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+11,26,Egypt,59,67,12,0,0,4,EGY,https://api.fifa.com/api/v3/picture/flags-sq-4/EGY
+11,6,Bosnia & Herzegovina,59,37,7,1,0,2,BIH,https://api.fifa.com/api/v3/picture/flags-sq-4/BIH
+13,36,Norway,58,41,3,0,0,5,NOR,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+13,1,Mexico,58,48,4,1,0,5,MEX,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+15,47,Ghana,56,47,6,0,0,8,GHA,https://api.fifa.com/api/v3/picture/flags-sq-4/GHA
+15,13,USA,56,64,7,1,0,11,USA,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+17,22,Japan,55,31,4,0,0,4,JPN,https://api.fifa.com/api/v3/picture/flags-sq-4/JPN
+17,11,Haiti,55,43,7,0,0,7,HAI,https://api.fifa.com/api/v3/picture/flags-sq-4/HAI
+19,9,Brazil,51,54,8,0,0,11,BRA,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+19,17,Germany,51,42,3,0,0,4,GER,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+21,20,Ecuador,49,37,8,1,0,2,ECU,https://api.fifa.com/api/v3/picture/flags-sq-4/ECU
+22,39,Austria,47,27,5,0,0,11,AUT,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+23,15,Australia,46,38,5,0,0,1,AUS,https://api.fifa.com/api/v3/picture/flags-sq-4/AUS
+23,48,Panama,46,33,5,0,0,6,PAN,https://api.fifa.com/api/v3/picture/flags-sq-4/PAN
+25,46,Croatia,45,46,4,0,0,8,CRO,https://api.fifa.com/api/v3/picture/flags-sq-4/CRO
+25,43,Uzbekistan,45,29,4,0,0,3,UZB,https://api.fifa.com/api/v3/picture/flags-sq-4/UZB
+27,42,DR Congo,44,44,6,0,0,9,COD,https://api.fifa.com/api/v3/picture/flags-sq-4/COD
+27,41,Portugal,44,58,7,0,0,10,POR,https://api.fifa.com/api/v3/picture/flags-sq-4/POR
+27,21,Netherlands,44,43,3,0,0,8,NED,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+30,23,Sweden,43,50,5,0,0,9,SWE,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+31,12,Scotland,42,39,5,0,0,2,SCO,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+32,2,South Africa,38,46,5,2,0,8,RSA,https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
+33,5,Canada,37,31,1,0,0,5,CZE,https://api.fifa.com/api/v3/picture/flags-sq-4/CZE
+34,34,Senegal,36,48,3,0,0,10,SEN,https://api.fifa.com/api/v3/picture/flags-sq-4/SEN
+34,7,Qatar,36,28,4,2,0,4,QAT,https://api.fifa.com/api/v3/picture/flags-sq-4/QAT
+36,27,Iran,35,23,6,0,0,9,IRN,https://api.fifa.com/api/v3/picture/flags-sq-4/IRN
+37,28,New Zealand,32,23,4,0,0,4,NZL,https://api.fifa.com/api/v3/picture/flags-sq-4/NZL
+37,18,Curaçao,32,31,7,0,0,5,CUW,https://api.fifa.com/api/v3/picture/flags-sq-4/CUW
+39,32,Uruguay,31,29,5,1,0,14,URU,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+39,40,Jordan,31,23,4,0,0,3,JOR,https://api.fifa.com/api/v3/picture/flags-sq-4/JOR
+39,16,Turkey,31,38,2,0,0,7,TUR,https://api.fifa.com/api/v3/picture/flags-sq-4/TUR
+42,38,Algeria,29,40,3,0,0,4,ALG,https://api.fifa.com/api/v3/picture/flags-sq-4/ALG
+42,19,Ivory Coast,29,36,4,0,0,4,CIV,https://api.fifa.com/api/v3/picture/flags-sq-4/CIV
+42,31,Saudi Arabia,29,26,6,0,0,3,KSA,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+45,24,Tunisia,27,34,1,0,0,9,TUN,https://api.fifa.com/api/v3/picture/flags-sq-4/TUN
+45,30,Cape Verde,27,47,5,0,0,7,CPV,https://api.fifa.com/api/v3/picture/flags-sq-4/CPV
+45,35,Iraq,27,31,4,1,0,1,IRQ,https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ
+48,3,South Korea,25,32,4,0,0,8,KOR,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
